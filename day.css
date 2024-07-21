@@ -2,11 +2,11 @@
     font-family: "day";
     font-weight: normal;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/day/day.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/day/day.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/day/day.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/day/day.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/day/day.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/day/day.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/day/day.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/day/day.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/day/day.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/day/day.ttf") format("truetype");
     font-display: swap;
 } 
 .day {
